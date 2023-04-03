@@ -1,0 +1,8 @@
+export {default as Home} from './Home/Home'
+export {default as Login} from './Login/Login'
+export {default as Signup} from './Signup/Signup'
+export {default as Partenaire} from './DevenirPartenair/DevenirPartenaire'
+export {default as Fournisseur} from './DevenirFournisseur/Fournisseur'
+export {default as PasswordReset} from './PasswordReset/PasswordReset'
+export {default as ForgotPassword} from './ForgetPwd/ForgetPwd'
+export {default as Dashboard } from './Dashboard/Dashboard'

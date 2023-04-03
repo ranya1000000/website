@@ -1,0 +1,49 @@
+.section-wrapper{
+  margin-top: 20px;
+  margin-left: 98px;
+}
+.section-header h4 {
+  font-size:  36px;
+  font-weight: 400;
+  text-align: center;
+  margin-right: 130px;
+  font-family: 'Poppins', sans-serif;
+}
+.features-items{
+  margin-right: 120px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+.features-item-image{
+  width: 333px;
+  height: 306px;
+  border-radius: 45px;
+  margin-bottom: 25px;
+  margin-top: 50px;
+}
+
+.features-item-content{
+  width: 333px;
+  height: 144.07px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.features-item-title{
+  letter-spacing: 0.01em;
+  font-size: 20px;
+  font-weight: 600;
+  height:126.23px;
+  
+}
+.features-item-text{
+  line-height: 34px;
+  letter-spacing: 0.01em;
+  font-size: 14px;
+  height: 144.07px;
+  
+  
+}

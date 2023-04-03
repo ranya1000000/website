@@ -1,0 +1,13 @@
+.container1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  margin-top: 1px;
+  background: url('../../assets/img07.jpeg' ) no-repeat top right/cover
+}
+#hero{
+  height: 1000px;
+  font-size: 42px;
+}

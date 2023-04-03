@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@400;600&display=swap');
+
+body , html  .app{
+  height: 100%;
+  width: 100%;
+  font-family: "Inter" , sans-serif;
+}
